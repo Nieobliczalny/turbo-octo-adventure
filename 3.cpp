@@ -1,5 +1,5 @@
-int test2(int x)
+int multiplyTest(int x)
 {
 	int y = x * 2;
-	return y;
+	return y * 2;
 }
